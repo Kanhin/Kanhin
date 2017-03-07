@@ -147,7 +147,7 @@ html{
 
 * [GitHub](https://github.com/Kanhin) https://github.com/Kanhin
 
-
+> 如果你觉得我还不错，请联系我！E-mail：kanhin295187334@outlook.com .
 `
       }
     },
