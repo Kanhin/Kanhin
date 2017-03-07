@@ -1,17 +1,59 @@
-<!DOCTYPE html>
-<html>
-
 <head>
-  <meta charset=utf-8>
-  <title>resume-a-resume</title>
-  <link href=static/css/app.6d2c73a4a615034984b8864b573f4833.css rel=stylesheet>
-</head>
+  <link href=./static/css/app.9ac91ef957edf359fbb979c0e9219af3.css rel=stylesheet>
+</head>Html Webpack Plugin:<pre>
+  Error: Child compilation failed:
+  Entry module not found: Error: Can't resolve 'D:\resume\Kanhin\index.html' in   'D:\resume\Kanhin':
+  Error: Can't resolve 'D:\resume\Kanhin\index.html' in 'D:\resume\Kanhin'
 
-<body>
-  <div id=app></div>
-  <script type=text/javascript src=static/js/manifest.0b028d225f8df3729186.js></script>
-  <script type=text/javascript src=static/js/vendor.1994d0b68fdb3fb86e7a.js></script>
-  <script type=text/javascript src=static/js/app.8f8be1561ac489ae7c42.js></script>
-</body>
+  - compiler.js:76
+    [Kanhin]/[html-webpack-plugin]/lib/compiler.js:76:16
 
-</html>
+  - Compiler.js:280 Compiler.<anonymous>
+    [Kanhin]/[webpack]/lib/Compiler.js:280:10
+
+  - Compiler.js:480
+    [Kanhin]/[webpack]/lib/Compiler.js:480:13
+
+  - Tapable.js:138 next
+    [Kanhin]/[tapable]/lib/Tapable.js:138:11
+
+  - CachePlugin.js:62 Compiler.<anonymous>
+    [Kanhin]/[webpack]/lib/CachePlugin.js:62:5
+
+  - Tapable.js:142 Compiler.applyPluginsAsyncSeries
+    [Kanhin]/[tapable]/lib/Tapable.js:142:13
+
+  - Compiler.js:477
+    [Kanhin]/[webpack]/lib/Compiler.js:477:10
+
+  - Tapable.js:131 Compilation.applyPluginsAsyncSeries
+    [Kanhin]/[tapable]/lib/Tapable.js:131:46
+
+  - Compilation.js:640 self.applyPluginsAsync.err
+    [Kanhin]/[webpack]/lib/Compilation.js:640:19
+
+  - Tapable.js:131 Compilation.applyPluginsAsyncSeries
+    [Kanhin]/[tapable]/lib/Tapable.js:131:46
+
+  - Compilation.js:631 self.applyPluginsAsync.err
+    [Kanhin]/[webpack]/lib/Compilation.js:631:11
+
+  - Tapable.js:138 next
+    [Kanhin]/[tapable]/lib/Tapable.js:138:11
+
+  - UglifyJsPlugin.js:140 Compilation.compilation.plugin
+    [Kanhin]/[webpack]/lib/optimize/UglifyJsPlugin.js:140:5
+
+  - Tapable.js:142 Compilation.applyPluginsAsyncSeries
+    [Kanhin]/[tapable]/lib/Tapable.js:142:13
+
+  - Compilation.js:626 self.applyPluginsAsync.err
+    [Kanhin]/[webpack]/lib/Compilation.js:626:10
+
+  - Tapable.js:131 Compilation.applyPluginsAsyncSeries
+    [Kanhin]/[tapable]/lib/Tapable.js:131:46
+
+</anonymous></anonymous></pre>
+<script type=text/javascript src=./static/js/manifest.a478eacec1c38d844e65.js></script>
+<script type=text/javascript src=./static/js/vendor.1994d0b68fdb3fb86e7a.js></script>
+<script type=text/javascript src=./static/js/app.b6860958316b16d920f5.js></script>
