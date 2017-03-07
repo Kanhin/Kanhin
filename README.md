@@ -2,12 +2,12 @@
 
 > This is my resume
 
-[预览](https://jirengu-inc.github.io/animating-resume/dist/)
+[预览](https://kanhin.github.io/Kanhin/dist/)
 
 ## 使用方法
 
 ``` bash
-git clone git@github.com:jirengu-inc/animating-resume.git
+git clone https://github.com/Kanhin/Kanhin.git
 cd animating-resume
 npm install
 npm run dev
