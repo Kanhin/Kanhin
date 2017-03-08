@@ -130,7 +130,7 @@ html{
 *  熟练使用less预编译语言
 *  熟练使用jQuery、zepto等JS类库
 *  熟练使用弹性盒布局和响应式布局，可以有效解决各种移动端的屏幕适配问题
-*  熟练应用Ajax异步通信技术，可以很好的与后台合作完成数据的更新 以及使用JSONP跨域传输
+*  熟练应用Ajax异步通信技术，可以很好的与后台合作完成数据的更新以及使用JSONP跨域请求
 *  熟练使用zepto、swiper等进行 WebApp和微信场景开发
 *  熟悉gulp、webpack项目构建工具和Git、SVN版本管理工具
 *  了解Dcloud、PhoneGap混合开发
