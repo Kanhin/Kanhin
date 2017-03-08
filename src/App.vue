@@ -24,7 +24,7 @@
         fullStyle: [
           `/*
 * Inspired by http://strml.net/
-* 大家好，我是Kanhin(管彬彬)
+* 大家好，我是Kanhin 管彬彬
 * 下面是我的vue简历！
 */
 
@@ -120,7 +120,7 @@ html{
         fullMarkdown: `管彬彬
 ----
 
-前端工程师
+前端开发工程师
 
 技能
 ----
@@ -147,7 +147,7 @@ html{
 
 * [GitHub](https://github.com/Kanhin) https://github.com/Kanhin
 
-> 如果你觉得我还不错，请联系我！E-mail：kanhin295187334@outlook.com .
+> 如果你觉得我还不错，请联系我！E-mail：kanhin295187334@outlook.com
 `
       }
     },
